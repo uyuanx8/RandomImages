@@ -31,10 +31,6 @@ public class MainActivity extends AppCompatActivity {
 
     String searchStr;
 
-    //<a target="_blank" href="https://icons8.com/icon/86327/download">Download</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-    //<a target="_blank" href="https://icons8.com/icon/85154/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-    //<a target="_blank" href="https://icons8.com/icon/82751/user">User</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
 
     private static final String API_KEY = "";
     //private String API_LINK = "https://api.unsplash.com/";
